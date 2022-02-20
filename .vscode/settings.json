@@ -1,0 +1,24 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.smoothScrolling": true,
+  "editor.lineHeight": 25,
+  "editor.letterSpacing": 0.5,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "400",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "solid",
+  "editor.renderWhitespace": "all",
+  "editor.suggestSelection": "first",
+  "window.zoomLevel": 1,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "search.exclude": {
+    "**/node_modules": true
+  },
+
+  "javascript.validate.enable": false,
+  "eslint.enable": true
+}
